@@ -14,7 +14,7 @@
 
 결측치 확인하기: 
 
-![screenshot](img/결측치%확인.png)
+![tmzmflstit](../img/결측치확인.png)
 
 
 시각화: 해야할 일 . 
